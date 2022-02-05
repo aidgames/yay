@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 
-	aur "github.com/Jguer/aur"
+	aur "github.com/aidgames/aur"
 	"github.com/leonelquinteros/gotext"
 
 	"github.com/Jguer/yay/v11/pkg/db"
